@@ -1,0 +1,15 @@
+{
+	"auth": {
+		"noranekoauth": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	},
+	"storage": {
+		"noranekoimage": {
+			"service": "S3",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}

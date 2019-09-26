@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "noraneko-dev-20190926172137-authRole",
+            "UnauthRoleArn": "arn:aws:iam::620659191086:role/noraneko-dev-20190926172137-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::620659191086:role/noraneko-dev-20190926172137-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "noraneko-dev-20190926172137-deployment",
+            "UnauthRoleName": "noraneko-dev-20190926172137-unauthRole",
+            "StackName": "noraneko-dev-20190926172137",
+            "StackId": "arn:aws:cloudformation:us-east-1:620659191086:stack/noraneko-dev-20190926172137/dc5e1580-e036-11e9-a510-12926a34023c"
+        },
+        "categories": {
+            "auth": {
+                "noranekoauth": {}
+            }
+        }
+    }
+}
